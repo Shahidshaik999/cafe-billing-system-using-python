@@ -23,4 +23,5 @@ python cafe.py
 
 ## Screenshots
 
-[You can add screenshots of your application here]
+![image](https://github.com/user-attachments/assets/7146b7a0-40cd-43af-ba2f-4af019d27189)
+
